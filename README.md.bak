@@ -22,19 +22,19 @@ Description: An interactive 3D portfolio where users drive a toy car through a s
 Tech: Three.js, Cannon.js, GSAP
 Stars: 4700
 
-### Henry Heffernan Portfolio
-Repo: https://github.com/henryjeff/portfolio-website
-Demo: https://henryheffernan.com
-Description: An immersive 3D desktop experience with interactive elements and retro aesthetics built for high-end visual engagement.
-Tech: Three.js, GSAP, React
-Stars: 1200
+### 3D Portfolio Experiment
+Repo: https://github.com/ladunjexa/reactjs18-3d-portfolio
+Demo: https://shaka-3d-portfolio.vercel.app/
+Description: A modern portfolio template built with React 18 and Three.js, featuring smooth 3D scene transitions and interactive UI elements.
+Tech: React, Three.js, Framer Motion
+Stars: 701
 
-### WebGL Fluid Simulation
-Repo: https://github.com/PavelDoGreat/WebGL-Fluid-Simulation
-Demo: https://paveldogreat.github.io/WebGL-Fluid-Simulation/
-Description: A highly polished and interactive fluid simulation that runs smoothly in the browser, demonstrating advanced WebGL and shader techniques.
-Tech: WebGL, Shaders
-Stars: 16500
+### 3D Apple iPhone Landing Page
+Repo: https://github.com/codebucks27/3D-Landing-page-for-Apple-iPhone
+Demo: https://iphone-threejs.vercel.app/
+Description: A clone of the Apple iPhone landing page featuring high-quality 3D model interactions and smooth scroll-based animations.
+Tech: React, Three.js, GSAP
+Stars: 106
 
 ---
 
