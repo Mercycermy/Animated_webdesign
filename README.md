@@ -74,11 +74,12 @@ Add screenshots or GIFs of your projects here.
 ---
 
 ## Contributing
-
-If you have a 3D or animated website to share:
-- Star the repository  
-- Fork it  
-- Submit a pull request  
+### Project Name
+- Repo: [link]
+- Demo: [link]
+- Description: Simple explanation of why this project is interesting
+- Tech: List of main technologies
+- Stars: Number
 
 ---
 
